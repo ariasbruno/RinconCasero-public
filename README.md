@@ -1,7 +1,7 @@
 # Rincón Casero 🏠
 
 ![Logo de Rincón Casero](https://github.com/ariasbruno/RinconCasero-public/blob/main/public/logo.png)
-[www.rinconcasero.com.ar](https://www.rinconcasero.com.ar)
+[Pagina web](https://www.rinconcasero.com.ar)
 
 Rincón Casero es una pagina web construida con Next.js 14, diseñada para proporcionar a los clientes una forma de conocer el local, ver el menú y realizar pedidos online para delivery o retiro en el local.
 
